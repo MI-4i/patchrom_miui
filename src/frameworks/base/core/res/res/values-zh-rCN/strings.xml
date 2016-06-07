@@ -60,12 +60,15 @@
     <string name="copy">复制</string>
     <string name="paste">粘贴</string>
     <string name="replace">替换</string>
+    <string name="frequent_phrases">常用语</string>
+    <string name="add_frequent_phrases">新建常用语</string>
 
     <!-- miui keyboard -->
     <string name="key_btn_space">空格</string>
     <string name="key_btn_ok">确认</string>
     <string name="softap_notifif_title">已启动热点“<xliff:g id="NAME">%s</xliff:g>”</string>
     <string name="softap_notifif_summary"><xliff:g id="COUNT">%d</xliff:g>个连接</string>
+    <string name="turn_off">关闭</string>
 
     <!-- screen paper mode -->
     <string name="screen_paper_mode_enter_toast">护眼模式已启用，您可以在[显示]-[护眼模式]或通知栏中关闭</string>

@@ -8,6 +8,8 @@
     <string name="copy">Sao chép</string>
     <string name="paste">Dán</string>
     <string name="replace">Thay thế</string>
+    <string name="frequent_phrases">Cụm từ thường dùng</string>
+    <string name="add_frequent_phrases">Thêm cụm từ thường dùng</string>
     <string name="alwaysUsePrompt">Nhớ lựa chọn của tôi</string>
     <string name="auto_start_warning_title">Cho phép %s tự khởi chạy?</string>
     <string name="auto_start_warning_allow">Cho phép</string>
@@ -47,6 +49,7 @@
     <string name="sim_added_reboot_confirm">Khởi động lại</string>
     <string name="softap_notifif_title">Điểm phát sóng \"<xliff:g id="NAME">%s</xliff:g>\" đã bật</string>
     <string name="softap_notifif_summary">"<xliff:g id="COUNT">%d</xliff:g> đã kết nối"</string>
+    <string name="turn_off">Tắt</string>
     <string name="unknown_caller">Số không xác định</string>
     <string name="handy_mode_title">Chế độ một tay</string>
     <string name="handy_mode_summary">Để đóng, chạm vào vùng màu tối</string>

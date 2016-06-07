@@ -8,6 +8,8 @@
     <string name="copy">Kopyala</string>
     <string name="paste">Yapıştır</string>
     <string name="replace">Değiştir</string>
+    <string name="frequent_phrases">Sık kullanılan ifadeler</string>
+    <string name="add_frequent_phrases">Sık kullanılan ifade ekle</string>
     <string name="alwaysUsePrompt">Seçimimi hatırla</string>
     <string name="auto_start_warning_title">Otomatik başlatma izni ver: %s?</string>
     <string name="auto_start_warning_allow">İzin ver</string>
@@ -47,6 +49,7 @@
     <string name="sim_added_reboot_confirm">Yeniden başlat</string>
     <string name="softap_notifif_title">\"<xliff:g id="NAME"> %s </xliff:g>\" internet paylaşımı açık</string>
     <string name="softap_notifif_summary">"<xliff:g id="COUNT">%d</xliff:g> bağlandı"</string>
+    <string name="turn_off">Kapat</string>
     <string name="unknown_caller">Bilinmeyen numara</string>
     <string name="handy_mode_title">Tek el modu</string>
     <string name="handy_mode_summary">Kapatmak için karanlık alana dokunun</string>

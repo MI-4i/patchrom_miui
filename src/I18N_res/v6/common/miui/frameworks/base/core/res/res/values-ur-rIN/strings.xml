@@ -8,6 +8,8 @@
     <string name="copy">کاپی کریں</string>
     <string name="paste">پیسٹ کریں</string>
     <string name="replace">بدل دیں</string>
+    <string name="frequent_phrases">مکرر فقرے</string>
+    <string name="add_frequent_phrases">مکرر فقروں میں ترمیم کریں</string>
     <string name="alwaysUsePrompt">میرا انتخاب یاد رکھیں</string>
     <string name="auto_start_warning_title">‎%s کو خود بخود شروع کرنے کی اجازت دیں؟</string>
     <string name="auto_start_warning_allow">اجازت دیں</string>
@@ -47,6 +49,7 @@
     <string name="sim_added_reboot_confirm">ربوٹ کریں</string>
     <string name="softap_notifif_title">ہاٹ سپاٹ \"<xliff:g id="NAME">%s</xliff:g>\" آن ہے</string>
     <string name="softap_notifif_summary">"<xliff:g id="COUNT">%d</xliff:g> مربوط"</string>
+    <string name="turn_off">آف کریں</string>
     <string name="unknown_caller">نامعلوم نمبر</string>
     <string name="handy_mode_title">يک دستہ موڈ</string>
     <string name="handy_mode_summary">بند کرنے کے لئے کالے حصے پر ٹیپ کریں</string>

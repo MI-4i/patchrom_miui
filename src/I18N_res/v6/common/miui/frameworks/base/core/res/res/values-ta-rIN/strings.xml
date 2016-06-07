@@ -8,6 +8,8 @@
     <string name="copy">நகல்</string>
     <string name="paste">ஒட்டு</string>
     <string name="replace">மாற்றிடு</string>
+    <string name="frequent_phrases">அடிக்கடி பயன்படுத்தும் வாக்கியங்கள்</string>
+    <string name="add_frequent_phrases">அடிக்கடி பயன்படுத்தும் வாக்கியங்களைச் சேர்</string>
     <string name="alwaysUsePrompt">எனது தேர்வை நினைவில்கொள்</string>
     <string name="auto_start_warning_title">%s தானாகவே தொடங்குவதற்கு அனுமதிக்கவா?</string>
     <string name="auto_start_warning_allow">அனுமதி</string>
@@ -47,6 +49,7 @@
     <string name="sim_added_reboot_confirm">மறுஇயக்கம்</string>
     <string name="softap_notifif_title">வெப்பப்பகுதி\"<xliff:g id="NAME">%s</xliff:g>\" இயக்கத்தில் உள்ளது</string>
     <string name="softap_notifif_summary">"<xliff:g id="COUNT">%d</xliff:g>இணைக்கப்பட்டது"</string>
+    <string name="turn_off">முடக்கு</string>
     <string name="unknown_caller">அறியாத எண்</string>
     <string name="handy_mode_title">ஒற்றைக் கை முறை</string>
     <string name="handy_mode_summary">மூடுவதற்கு, இருட்டான பகுதியைத் தட்டவும்</string>

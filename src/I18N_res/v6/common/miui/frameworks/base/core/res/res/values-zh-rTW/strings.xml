@@ -41,10 +41,13 @@
     <string name="copy">複製</string>
     <string name="paste">貼上</string>
     <string name="replace">替代</string>
+    <string name="frequent_phrases">常用語</string>
+    <string name="add_frequent_phrases">新建常用語</string>
     <string name="key_btn_space">空格</string>
     <string name="key_btn_ok">確認</string>
     <string name="softap_notifif_title">已啟動熱點「<xliff:g id="NAME">%s</xliff:g>」</string>
     <string name="softap_notifif_summary"><xliff:g id="COUNT">%d</xliff:g>個連接</string>
+    <string name="turn_off">關閉</string>
     <string name="screen_paper_mode_enter_toast">護眼模式已啟用，您可以在[顯示]-[護眼模式]或通知列中關閉</string>
     <string name="handy_mode_title">單手模式</string>
     <string name="handy_mode_summary">點擊小螢幕外區域退出</string>

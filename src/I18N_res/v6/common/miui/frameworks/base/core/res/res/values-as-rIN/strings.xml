@@ -8,6 +8,8 @@
     <string name="copy">প্ৰতিলিপি কৰক</string>
     <string name="paste">লেপন কৰক</string>
     <string name="replace">স্থানান্তৰ কৰক</string>
+    <string name="frequent_phrases">সঘন বাক্যাংশ</string>
+    <string name="add_frequent_phrases">সঘন বাক্যাংশ যোগ</string>
     <string name="alwaysUsePrompt">মোৰ পচন্দ মনত ৰাখক</string>
     <string name="auto_start_warning_title">%s-ক স্বয়ংক্ৰিয়ভাৱে আৰম্ভ হ\'বলৈ অনুমতি দিবনে?</string>
     <string name="auto_start_warning_allow">অনুমতি দিয়ক</string>
@@ -47,6 +49,7 @@
     <string name="sim_added_reboot_confirm">পুনৰাৰম্ভ</string>
     <string name="softap_notifif_title">হটস্পট \"<xliff:g id="NAME">%s</xliff:g>\" অন হৈ আছে</string>
     <string name="softap_notifif_summary">"<xliff:g id="COUNT">%d</xliff:g> সংযোজিত হৈ আছে"</string>
+    <string name="turn_off">অফ কৰক</string>
     <string name="unknown_caller">অজ্ঞাত নম্বৰ</string>
     <string name="handy_mode_title">এহতীয়া ম\'ড</string>
     <string name="handy_mode_summary">বন্ধ কৰিবলৈ, এন্ধাৰ হৈ থকা ঠাইত টেপ কৰক</string>

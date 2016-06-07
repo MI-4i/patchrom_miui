@@ -8,6 +8,8 @@
     <string name="copy">Kopijuoti</string>
     <string name="paste">Įterpti</string>
     <string name="replace">Pakeisti</string>
+    <string name="frequent_phrases">Frequent phrases</string>
+    <string name="add_frequent_phrases">Add frequent phrases</string>
     <string name="alwaysUsePrompt">Atsiminti pasirinkimą</string>
     <string name="auto_start_warning_title">Leisti %s automatinį paleidimą?</string>
     <string name="auto_start_warning_allow">Leisti</string>
@@ -47,6 +49,7 @@
     <string name="sim_added_reboot_confirm">Perkrauti</string>
     <string name="softap_notifif_title">Wi-Fi prieiga <xliff:g id="NAME">%s</xliff:g> yra ijungta</string>
     <string name="softap_notifif_summary">"<xliff:g id="COUNT">%d</xliff:g> prisijungę"</string>
+    <string name="turn_off">Turn off</string>
     <string name="unknown_caller">Nežinomas numeris</string>
     <string name="handy_mode_title">Vienos rankos režimas</string>
     <string name="handy_mode_summary">Palieskite užtamsintą sritį, jei norite uždaryti</string>

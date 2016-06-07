@@ -8,6 +8,8 @@
     <string name="copy">कॉपी करा</string>
     <string name="paste">पेस्ट करा</string>
     <string name="replace">बदला</string>
+    <string name="frequent_phrases">वारंवार वाक्यांश</string>
+    <string name="add_frequent_phrases">वारंवार वाक्यांश जोडा</string>
     <string name="alwaysUsePrompt">माझी निवड लक्षात ठेवा</string>
     <string name="auto_start_warning_title">%s ला स्वयंचलितपणे प्रारंभ होण्याची अनुमती द्या?</string>
     <string name="auto_start_warning_allow">अनुमती द्या</string>
@@ -47,6 +49,7 @@
     <string name="sim_added_reboot_confirm">रिबूट करा</string>
     <string name="softap_notifif_title">\"<xliff:g id="NAME">%s</xliff:g>\" हॉटस्पॉट चालू आहे</string>
     <string name="softap_notifif_summary">"<xliff:g id="COUNT">%d</xliff:g> कनेक्ट केलेले आहे"</string>
+    <string name="turn_off">बंद करा</string>
     <string name="unknown_caller">अज्ञात नंबर</string>
     <string name="handy_mode_title">एका हाताने वापरण्याचा मोड</string>
     <string name="handy_mode_summary">बंद करण्यासाठी, गडद क्षेत्र टॅप करा</string>
